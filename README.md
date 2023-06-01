@@ -1,5 +1,5 @@
 # Facebook-Project
-Facebook Login Project
+Facebook Login Project.
 This project demonstrates a simple Facebook login page using HTML and CSS.
 ![Screenshot (236)](https://github.com/Harshit-Kapur/Facebook-Project/assets/135225106/7cf7fe3b-c78e-46c8-b592-973a83330b2a)
 
