@@ -4,8 +4,8 @@ This project demonstrates a simple Facebook login page using HTML and CSS.
 ![Screenshot (236)](https://github.com/Harshit-Kapur/Facebook-Project/assets/135225106/7cf7fe3b-c78e-46c8-b592-973a83330b2a)
 
 # Features
-User-friendly login form
-Custom CSS styling
+User-friendly login form</br>
+Custom CSS styling</br>
 Usage of features present in HTML and CSS.
 
 # Customization
